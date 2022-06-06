@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hey there, I'm Patrick 👋
+### Thank you for visiting my profile, I hope you are impressed/find inspiration from my work. 
+
+🔭 I’m currently working on an Instagram clone built with Flutter and connected to Firebase. Right now the project is almost complete and I'm testing it 🧐  
+🌱 I’m currently learning Python for Data Science as I love challenges and numbers 🤓  
+  
+📫 You may reach me via my email : ptryth@gmail.com. I reply promptly 😎
 
 <!--
-**krazyfingerz/krazyfingerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
